@@ -18,7 +18,7 @@ const users = [{
 
 
 function App() {
-
+    console.log('qdqasd')
   return (
     <>
         {users.map((user) => (
